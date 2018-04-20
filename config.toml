@@ -1,6 +1,6 @@
 baseurl = "https://khs7515-sample-site-1.netlify.com"
 publishDir = "/public"
-title = "Universal"
+title = "샘플사이트1"
 theme = "hugo-universal-theme"
 themesDir = "/themes/"
 languageCode = "en-us"
