@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://khs7515-sample-site-1.netlify.com"
 publishDir = "/public"
 title = "Universal"
 theme = "hugo-universal-theme"
