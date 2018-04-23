@@ -1,3 +1,6 @@
 [submodule "hugo-universal-theme"]
 	path = themes/hugo-universal-theme
 	url = https://github.com/devcows/hugo-universal-theme
+[submodule "layouts/shortcodes/hugo-easy-gallery"]
+	path = layouts/shortcodes/hugo-easy-gallery
+	url = https://github.com/liwenyip/hugo-easy-gallery.git
